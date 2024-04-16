@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-46"
+  description: "new-46"
+  annotations:
+    github.com/project-slug: jobinsraj-poc/new-46-tech-docs
+    backstage.io/techdocs-ref: url:https://github.com/jobinsraj-poc/new-46-tech-docs
+spec:
+  type: Reference Architecture
+  lifecycle: experimental
+  owner: "jobinsraj-poc"
